@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb14f592-d502-4305-855d-f3988ab56b46": {
+      "ProjectGuid": "fb14f592-d502-4305-855d-f3988ab56b46",
+      "DisplayName": "FizzBuzz NET 6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

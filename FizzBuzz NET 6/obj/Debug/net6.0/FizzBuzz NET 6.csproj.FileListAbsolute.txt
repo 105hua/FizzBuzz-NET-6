@@ -1,0 +1,15 @@
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\FizzBuzz NET 6.exe
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\FizzBuzz NET 6.deps.json
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\FizzBuzz NET 6.runtimeconfig.json
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\FizzBuzz NET 6.dll
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\ref\FizzBuzz NET 6.dll
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\bin\Debug\net6.0\FizzBuzz NET 6.pdb
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.csproj.AssemblyReference.cache
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.AssemblyInfoInputs.cache
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.AssemblyInfo.cs
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.csproj.CoreCompileInputs.cache
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.dll
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\ref\FizzBuzz NET 6.dll
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.pdb
+D:\Projects\FizzBuzz NET 6\FizzBuzz NET 6\obj\Debug\net6.0\FizzBuzz NET 6.genruntimeconfig.cache
